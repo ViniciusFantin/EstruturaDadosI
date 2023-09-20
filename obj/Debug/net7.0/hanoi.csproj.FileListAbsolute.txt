@@ -1,0 +1,15 @@
+C:\Users\ti.vinicius\Desktop\Estrutura de Dados\testes\hanoi\bin\Debug\net7.0\hanoi.exe
+C:\Users\ti.vinicius\Desktop\Estrutura de Dados\testes\hanoi\bin\Debug\net7.0\hanoi.deps.json
+C:\Users\ti.vinicius\Desktop\Estrutura de Dados\testes\hanoi\bin\Debug\net7.0\hanoi.runtimeconfig.json
+C:\Users\ti.vinicius\Desktop\Estrutura de Dados\testes\hanoi\bin\Debug\net7.0\hanoi.dll
+C:\Users\ti.vinicius\Desktop\Estrutura de Dados\testes\hanoi\bin\Debug\net7.0\hanoi.pdb
+C:\Users\ti.vinicius\Desktop\Estrutura de Dados\testes\hanoi\obj\Debug\net7.0\hanoi.csproj.AssemblyReference.cache
+C:\Users\ti.vinicius\Desktop\Estrutura de Dados\testes\hanoi\obj\Debug\net7.0\hanoi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ti.vinicius\Desktop\Estrutura de Dados\testes\hanoi\obj\Debug\net7.0\hanoi.AssemblyInfoInputs.cache
+C:\Users\ti.vinicius\Desktop\Estrutura de Dados\testes\hanoi\obj\Debug\net7.0\hanoi.AssemblyInfo.cs
+C:\Users\ti.vinicius\Desktop\Estrutura de Dados\testes\hanoi\obj\Debug\net7.0\hanoi.csproj.CoreCompileInputs.cache
+C:\Users\ti.vinicius\Desktop\Estrutura de Dados\testes\hanoi\obj\Debug\net7.0\hanoi.dll
+C:\Users\ti.vinicius\Desktop\Estrutura de Dados\testes\hanoi\obj\Debug\net7.0\refint\hanoi.dll
+C:\Users\ti.vinicius\Desktop\Estrutura de Dados\testes\hanoi\obj\Debug\net7.0\hanoi.pdb
+C:\Users\ti.vinicius\Desktop\Estrutura de Dados\testes\hanoi\obj\Debug\net7.0\hanoi.genruntimeconfig.cache
+C:\Users\ti.vinicius\Desktop\Estrutura de Dados\testes\hanoi\obj\Debug\net7.0\ref\hanoi.dll
